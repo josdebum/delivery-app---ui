@@ -1,6 +1,6 @@
 # delivery_app
 
-A new Flutter project.
+Link to App Demo and apk - https://drive.google.com/drive/folders/1d5a_AvmxofeS5HbVhbGDMXqO0kr6HYy3?usp=sharing
 
 ## Getting Started
 
